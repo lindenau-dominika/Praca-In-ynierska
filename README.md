@@ -6,7 +6,7 @@ Ogólny zarys pracy inżynierskiej, nad którą wraz z zespołem postanowiliśmy
 • Dostarczenie narzędzia umożliwiającego dokładną i efektywną analizę nagrań demo.
 
 ## Demo
-[Film przedstawiający wygląd strony z dnia obrony pracy]{projekt.mp4}
+[Film przedstawiający wygląd strony z dnia obrony pracy]{img1.png}
 
 ## Języki wykorzystane przy tworzeniu Frontendu
 [• JSX
