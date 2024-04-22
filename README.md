@@ -6,7 +6,7 @@ Ogólny zarys pracy inżynierskiej, nad którą wraz z zespołem postanowiliśmy
 • Dostarczenie narzędzia umożliwiającego dokładną i efektywną analizę nagrań demo.
 
 ## Demo
-{/2024-02-08 20-58-59.mkv}
+[Film przedstawiający wygląd strony z dnia obrony pracy]{2024-02-08 20-58-59.mkv}
 
 ## Języki wykorzystane przy tworzeniu Frontendu
 [• JSX
