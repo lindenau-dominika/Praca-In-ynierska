@@ -1,16 +1,14 @@
-# Praca-Inzynierska
-Ogólny zarys pracy inżynierskiej, nad którą wraz z zespołem nadal rozwijamy, aby przekształcić ją w gotową do użytku aplikację.
+# Aplikacja internetowa wspomagająca rozwój gracza e-sportowego
+Ogólny zarys pracy inżynierskiej, nad którą wraz z zespołem postanowiliśmy dalej pracować, aby przekształcić ją w gotową do użytku aplikację.
 
-# Nazwa Twojego Projektu Inżynierskiego
+## Cel projektu:
+• Usprawnienie procesu doskonalenia się w grze Counter-Strike 2,
+• Dostarczenie narzędzia umożliwiającego dokładną i efektywną analizę nagrań demo.
 
-## Opis
-[
-Celem naszego projektu było stworzenie aplikacji dla graczy Counter Strike 2, którzy dążą do zwiększenia umiejętności w grze i dokładniej analizować rozegrane mecze.
-]
 ## Demo
-[{}]
+{/2024-02-08 20-58-59.mkv}
 
-## Języki wykorzystane do stworzenia Frontendu
+## Języki wykorzystane przy tworzeniu Frontendu
 [• JSX
 • HTML
 • CSS
