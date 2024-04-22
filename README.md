@@ -12,6 +12,10 @@ Mój zakres pracy - Tworzenie/rozbudowa strony Internetowej od strony Frontendu.
 
 https://github.com/lindenau-dominika/Praca-Inzynierska/assets/74009176/1ac9af11-9a28-47d9-a0ae-70fead29b36e
 
+## Obecna kolorystyka
+
+![img2](https://github.com/lindenau-dominika/Praca-Inzynierska/assets/74009176/c48977c2-722c-49cd-b2b0-f6e0725b4765)
+
 ## Języki wykorzystane przy tworzeniu Frontendu
 • JSX
 
