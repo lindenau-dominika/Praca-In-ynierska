@@ -16,6 +16,10 @@ https://github.com/lindenau-dominika/Praca-Inzynierska/assets/74009176/1ac9af11-
 
 ![image2](https://github.com/lindenau-dominika/Praca-Inzynierska/assets/74009176/ca4ef147-d2ab-4f7a-bd39-419dab39ec9c)
 
+### W tym przykład responsywności:
+
+![image](https://github.com/lindenau-dominika/Praca-Inzynierska/assets/74009176/50715636-9444-4268-bf0d-239c703a05ec)
+
 ## Języki wykorzystane przy tworzeniu Frontendu
 • JSX
 
