@@ -9,12 +9,12 @@ Mój zakres pracy - Tworzenie/rozbudowa strony Internetowej od strony Frontendu.
 • Dostarczenie narzędzia umożliwiającego dokładną i efektywną analizę nagrań demo.
 
 ## Demo
+Stan projektu z dnia obrony:
 
 https://github.com/lindenau-dominika/Praca-Inzynierska/assets/74009176/1ac9af11-9a28-47d9-a0ae-70fead29b36e
-
 ## Obecna kolorystyka
 
-![img2](https://github.com/lindenau-dominika/Praca-Inzynierska/assets/74009176/c48977c2-722c-49cd-b2b0-f6e0725b4765)
+![image2](https://github.com/lindenau-dominika/Praca-Inzynierska/assets/74009176/ca4ef147-d2ab-4f7a-bd39-419dab39ec9c)
 
 ## Języki wykorzystane przy tworzeniu Frontendu
 • JSX
@@ -25,7 +25,7 @@ https://github.com/lindenau-dominika/Praca-Inzynierska/assets/74009176/1ac9af11-
 
 • Tailwind
 
-## Framework
+### W tym Framework
 React z Vite
 
 ## Gotowy projekt
